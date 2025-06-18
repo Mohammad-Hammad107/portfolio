@@ -1,4 +1,4 @@
-import { ArrowDown, Mail, Phone, MapPin, Download } from 'lucide-react';
+import { ArrowDown, Mail, Phone, MapPin } from 'lucide-react';
 import profileImage from '../assets/profile-Image.jfif';
 
 const Hero = () => {
@@ -46,7 +46,7 @@ const Hero = () => {
 
           {/* Name and Title */}
           <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-emerald-400 via-cyan-400 to-teal-400 bg-clip-text text-transparent animate-fade-in">
-            Mohammad Hammad
+            Muhammad Hammad
           </h1>
           <p className="text-xl md:text-2xl text-slate-300 mb-6 animate-fade-in-delay">
             Full Stack Web Developer

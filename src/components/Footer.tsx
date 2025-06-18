@@ -5,7 +5,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="text-center">
           <p className="text-slate-500 text-sm">
-            © 2024 Mohammad Hammad. All rights reserved.
+            © 2024 Muhammad Hammad. All rights reserved.
           </p>
         </div>
       </div>

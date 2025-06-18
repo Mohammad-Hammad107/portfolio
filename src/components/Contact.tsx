@@ -25,7 +25,7 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: 'Email', value: 'mohammad.hammad@email.com', href: 'mailto:mohammad.hammad@email.com' },
+    { icon: Mail, label: 'Email', value: 'maadii8907@email.com', href: 'mailto:maadii8907@email.com' },
     { icon: Phone, label: 'Phone', value: '+92 355 8459097', href: 'tel:+923558459097' },
     { icon: MapPin, label: 'Location', value: 'Pakistan', href: '#' }
   ];
