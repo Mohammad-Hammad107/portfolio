@@ -68,7 +68,7 @@ const Hero = () => {
             </div>
             <div className="flex items-center gap-2 bg-slate-800/50 px-4 py-2 rounded-full border border-slate-700">
               <Mail size={16} className="text-emerald-400" />
-              <span>mohammad.hammad@email.com</span>
+              <span>maadii8907@gmail.com</span>
             </div>
           </div>
 

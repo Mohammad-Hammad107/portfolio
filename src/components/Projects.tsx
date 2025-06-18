@@ -1,5 +1,4 @@
-import React from 'react';
-import { ExternalLink, Github, Heart, Zap, Gamepad2 } from 'lucide-react';
+import { ExternalLink, Github, Heart, Gamepad2 } from 'lucide-react';
 
 const Projects = () => {
   const projects = [

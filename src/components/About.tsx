@@ -42,7 +42,7 @@ const About = () => {
                 <div className="bg-slate-800/50 p-6 rounded-lg border border-slate-700 hover:border-emerald-500/50 transition-colors duration-200">
                   <h4 className="text-lg font-semibold text-emerald-400">Bachelor of Science in Computer Science</h4>
                   <p className="text-slate-300">Mirpur University of Science & Technology (MUST)</p>
-                  <p className="text-slate-400">2021 – 2024</p>
+                  <p className="text-slate-400">2021 – 2025</p>
                 </div>
               </div>
             </div>
